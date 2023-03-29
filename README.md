@@ -14,7 +14,7 @@
     <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" alt="访客统计" />
+    <img src="https://visitor-badge.glitch.me/badge?page_id=sanmaomashi" alt="访客统计" />
   </div>
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -29,10 +29,15 @@
 
 ### 📝  笔记
 
-#### [Python-从入门到跑路](https://www.nio.cn/) &emsp; 
+[Python-从入门到跑路](https://github.com/sanmaomashi/Salute_Python) &emsp; 
 
 > 简介
->
+
+python学习教程
+
+> 在线访问地址
+
+- https://sanmaomashi.github.io/Salute_Python/
 
 
 
