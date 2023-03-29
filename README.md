@@ -20,24 +20,16 @@
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </div>
 
-
+<div style="width: 100%;">
 <table>
-
-
 <tr>
 <td>
 
 ### 📝  笔记
 
-[Python-从入门到跑路](https://github.com/sanmaomashi/Salute_Python) &emsp; 
+- [Python-从入门到跑路](https://github.com/sanmaomashi/Salute_Python) &emsp; 
 
-> 简介
-
-python学习教程
-
-> 在线访问地址
-
-- https://sanmaomashi.github.io/Salute_Python/
+  python学习教程，点击[访问在线文档](https://sanmaomashi.github.io/Salute_Python/)
 
 
 
@@ -58,8 +50,9 @@ python学习教程
 </td>
 </tr>
 
-
 </table>
+
+</div>
 
 <!-- profile-3d-contrib 3D贡献图-->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
