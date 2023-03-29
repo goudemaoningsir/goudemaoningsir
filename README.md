@@ -17,14 +17,7 @@
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <img src="https://raw.githubusercontent.com/sanmaomashi/sanmaomashi/main/assets/github-contribution-grid-snake.svg" />
 </div>
-
-
-<table>
-<tr>
-<td>
-
-
-### 📝  笔记
+## 📝  笔记
 
 - [Salute_MacOS](https://github.com/sanmaomashi/Salute_MacOS) &emsp; 
   - MAC - 操作教程 技巧，点击[访问在线文档](https://sanmaomashi.github.io/Salute_MacOS/)
@@ -51,27 +44,16 @@
 - [Salute_DeepLearning](https://github.com/sanmaomashi/Salute_DeepLearning) &emsp; 
   - 深度学习 - 从入门到跑路 - 学习教程，点击[访问在线文档](https://sanmaomashi.github.io/Salute_DeepLearning/)
 
+## ⌨️ 项目
 
-
-</td>
-</tr>
-
-### 🏢 项目
-
-<table>
-<tr>
-<td>
 
 - TODO
   - summary
   
-    
-  
 
-</td>
-</tr>
 
-</table>
+
+
 
 <img src="https://raw.githubusercontent.com/sanmaomashi/sanmaomashi/main/profile-3d-contrib/profile-green-animate.svg" />
 
