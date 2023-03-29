@@ -13,39 +13,59 @@
     <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
-    <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://visitor-badge.glitch.me/badge?page_id=sanmaomashi" alt="访客统计" />
   </div>
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <img src="https://raw.githubusercontent.com/sanmaomashi/sanmaomashi/main/assets/github-contribution-grid-snake.svg" />
 </div>
 
 
-<div style="width: 100%;">
 <table>
 <tr>
 <td>
 
+
 ### 📝  笔记
 
-- [Python-从入门到跑路](https://github.com/sanmaomashi/Salute_Python) &emsp; 
-
-  python学习教程，点击[访问在线文档](https://sanmaomashi.github.io/Salute_Python/)
+- [Salute_MacOS](https://github.com/sanmaomashi/Salute_MacOS) &emsp; 
+  - MAC - 操作教程 技巧，点击[访问在线文档](https://sanmaomashi.github.io/Salute_MacOS/)
+- [Salute_Git](https://github.com/sanmaomashi/Salute_Git) &emsp; 
+  - Git - 操作教程 技巧，点击[访问在线文档](https://sanmaomashi.github.io/Salute_Git/)
+- [Salute_Frontend](https://github.com/sanmaomashi/Salute_Frontend) &emsp; 
+  - 前端 - 从入门到跑路 - 学习教程，点击[访问在线文档](https://sanmaomashi.github.io/Salute_Frontend/)
+- [Salute_Linux](https://github.com/sanmaomashi/Salute_Linux) &emsp; 
+  - Linux - 从入门到跑路 - 学习教程，点击[访问在线文档](https://sanmaomashi.github.io/Salute_Linux/)
+- [Salute_Docker](https://github.com/sanmaomashi/Salute_Docker) &emsp; 
+  - Docker - 从入门到跑路 - 学习教程，点击[访问在线文档](https://sanmaomashi.github.io/Salute_Docker/)
+- [Salute_Network](https://github.com/sanmaomashi/Salute_Network) &emsp; 
+  - 计算机网络 - 从入门到跑路 - 学习教程，点击[访问在线文档](https://sanmaomashi.github.io/Salute_Network/)
+- [Salute_DataStructure](https://github.com/sanmaomashi/Salute_DataStructure) &emsp; 
+  - 数据结构 - 从入门到跑路 - 学习教程，点击[访问在线文档](https://sanmaomashi.github.io/Salute_DataStructure/)
+- [Salute_Python](https://github.com/sanmaomashi/Salute_Python) &emsp; 
+  - python - 从入门到跑路 - 学习教程，点击[访问在线文档](https://sanmaomashi.github.io/Salute_Python/)
+- [Salute_Databases](https://github.com/sanmaomashi/Salute_Databases) &emsp; 
+  - 数据库 - 从入门到跑路 - 学习教程，点击[访问在线文档](https://sanmaomashi.github.io/Salute_Databases/)
+- [Salute_Knowledge_Graph](https://github.com/sanmaomashi/Salute_Knowledge_Graph) &emsp; 
+  - 知识图谱 - 从入门到跑路 - 学习教程，点击[访问在线文档](https://sanmaomashi.github.io/Salute_Knowledge_Graph/)
+- [Salute_MachineLearning](https://github.com/sanmaomashi/Salute_MachineLearning) &emsp; 
+  - 机器学习 - 从入门到跑路 - 学习教程，点击[访问在线文档](https://sanmaomashi.github.io/Salute_MachineLearning/)
+- [Salute_DeepLearning](https://github.com/sanmaomashi/Salute_DeepLearning) &emsp; 
+  - 深度学习 - 从入门到跑路 - 学习教程，点击[访问在线文档](https://sanmaomashi.github.io/Salute_DeepLearning/)
 
 
 
 </td>
 </tr>
 
+### 🏢 项目
+
+<table>
 <tr>
 <td>
 
-### 🏢 项目
-
-- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 
-  - 工作岗位：实习生
-  - 工作内容：前端开发
-  - 工作方向：一站式数据治理与开发
+- TODO
+  - summary
+  
+    
   
 
 </td>
@@ -53,13 +73,7 @@
 
 </table>
 
-</div>
-
-<!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
-</div>
-
-</div>
+<img src="https://raw.githubusercontent.com/sanmaomashi/sanmaomashi/main/profile-3d-contrib/profile-green-animate.svg" />
 
 
 
