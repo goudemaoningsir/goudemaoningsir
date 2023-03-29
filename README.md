@@ -17,8 +17,9 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=sanmaomashi" alt="访客统计" />
   </div>
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sanmaomashi/sanmaomashi/main/assets/github-contribution-grid-snake.svg" />
 </div>
+
 
 <div style="width: 100%;">
 <table>
