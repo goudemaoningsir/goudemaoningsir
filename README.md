@@ -24,8 +24,6 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
-
 <p>&emsp;&emsp;大家好，我是小孙同学。</p>
 <p>&emsp;&emsp;目前就读于安徽理工大学地理信息科学专业。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
@@ -40,10 +38,20 @@
 
 ### 🏢 Work Experience
 
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+- [Python-从入门到跑路](https://www.nio.cn/) &emsp; 
+  - 工作岗位：实习生
+  - 工作内容：前端开发
+  - 工作方向：一站式数据治理与开发
 
-- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— Now
-  
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🏢 Work Experience
+
+- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 
   - 工作岗位：实习生
   - 工作内容：前端开发
   - 工作方向：一站式数据治理与开发
