@@ -23,12 +23,13 @@
 <tr>
 <td>
 
-### 📝  [Python-从入门到跑路](https://www.nio.cn/) 
+### 📝  笔记
 
 - [Python-从入门到跑路](https://www.nio.cn/) &emsp; 
-  - 工作岗位：实习生
-  - 工作内容：前端开发
-  - 工作方向：一站式数据治理与开发
+
+  ?> 简介
+
+  
 
 </td>
 </tr>
@@ -36,7 +37,7 @@
 <tr>
 <td>
 
-### 🏢 Work Experience
+### 🏢 项目
 
 - [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 
   - 工作岗位：实习生
