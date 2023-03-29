@@ -20,28 +20,50 @@
 
 ## 📝  笔记
 
-- [Salute_Git](https://github.com/sanmaomashi/Salute_Git) &emsp; 
-  - Git - 操作教程 技巧，点击[访问在线文档](https://sanmaomashi.github.io/Salute_Git/)
-- [Salute_Frontend](https://github.com/sanmaomashi/Salute_Frontend) &emsp; 
-  - 前端 - 从入门到跑路 - 学习教程，点击[访问在线文档](https://sanmaomashi.github.io/Salute_Frontend/)
-- [Salute_Docker](https://github.com/sanmaomashi/Salute_Docker) &emsp; 
-  - Docker - 从入门到跑路 - 学习教程，点击[访问在线文档](https://sanmaomashi.github.io/Salute_Docker/)
-- [Salute_Operating_System](https://github.com/sanmaomashi/Salute_Operating_System) &emsp; 
-  - 操作系统 - 从入门到跑路 - 学习教程，点击[访问在线文档](https://sanmaomashi.github.io/Salute_Operating_System/)
-- [Salute_Network](https://github.com/sanmaomashi/Salute_Network) &emsp; 
-  - 计算机网络 - 从入门到跑路 - 学习教程，点击[访问在线文档](https://sanmaomashi.github.io/Salute_Network/)
-- [Salute_DataStructure](https://github.com/sanmaomashi/Salute_DataStructure) &emsp; 
-  - 数据结构 - 从入门到跑路 - 学习教程，点击[访问在线文档](https://sanmaomashi.github.io/Salute_DataStructure/)
-- [Salute_Python](https://github.com/sanmaomashi/Salute_Python) &emsp; 
-  - python - 从入门到跑路 - 学习教程，点击[访问在线文档](https://sanmaomashi.github.io/Salute_Python/)
-- [Salute_Databases](https://github.com/sanmaomashi/Salute_Databases) &emsp; 
-  - 数据库 - 从入门到跑路 - 学习教程，点击[访问在线文档](https://sanmaomashi.github.io/Salute_Databases/)
-- [Salute_Knowledge_Graph](https://github.com/sanmaomashi/Salute_Knowledge_Graph) &emsp; 
-  - 知识图谱 - 从入门到跑路 - 学习教程，点击[访问在线文档](https://sanmaomashi.github.io/Salute_Knowledge_Graph/)
-- [Salute_MachineLearning](https://github.com/sanmaomashi/Salute_MachineLearning) &emsp; 
-  - 机器学习 - 从入门到跑路 - 学习教程，点击[访问在线文档](https://sanmaomashi.github.io/Salute_MachineLearning/)
-- [Salute_DeepLearning](https://github.com/sanmaomashi/Salute_DeepLearning) &emsp; 
-  - 深度学习 - 从入门到跑路 - 学习教程，点击[访问在线文档](https://sanmaomashi.github.io/Salute_DeepLearning/)
+<a href="https://github.com/sanmaomashi/Salute_Git">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Git&theme=dark&bg_color=121212&hide_border=true" /></a>
+
+<a href="https://github.com/sanmaomashi/Salute_Frontend">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Frontend&theme=dark&bg_color=121212&hide_border=true" /></a>
+
+<br>
+
+<a href="https://github.com/sanmaomashi/Salute_Docker">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Docker&theme=dark&bg_color=121212&hide_border=true" /></a>
+
+<a href="https://github.com/sanmaomashi/Salute_Operating_System">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Operating_System&theme=dark&bg_color=121212&hide_border=true" /></a>
+
+<br>
+
+<a href="https://github.com/sanmaomashi/Salute_Network">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Network&theme=dark&bg_color=121212&hide_border=true" /></a>
+
+<a href="https://github.com/sanmaomashi/Salute_DataStructure">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_DataStructure&theme=dark&bg_color=121212&hide_border=true" /></a>
+
+<br>
+
+<a href="https://github.com/sanmaomashi/Salute_Python">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Python&theme=dark&bg_color=121212&hide_border=true" /></a>
+
+<a href="https://github.com/sanmaomashi/Salute_Databases">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Databases&theme=dark&bg_color=121212&hide_border=true" /></a>
+
+<br>
+
+<a href="https://github.com/sanmaomashi/Salute_Knowledge_Graph">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Knowledge_Graph&theme=dark&bg_color=121212&hide_border=true" /></a>
+
+<a href="https://github.com/sanmaomashi/Salute_MachineLearning">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_MachineLearning&theme=dark&bg_color=121212&hide_border=true" /></a>
+
+<br>
+
+<a href="https://github.com/sanmaomashi/Salute_DeepLearning">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_DeepLearning&theme=dark&bg_color=121212&hide_border=true" /></a>
+
+<br>
 
 ## ⌨️ 项目
 
