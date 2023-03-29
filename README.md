@@ -21,16 +21,14 @@
 
 ## 📝  笔记
 
-- [Salute_MacOS](https://github.com/sanmaomashi/Salute_MacOS) &emsp; 
-  - MAC - 操作教程 技巧，点击[访问在线文档](https://sanmaomashi.github.io/Salute_MacOS/)
 - [Salute_Git](https://github.com/sanmaomashi/Salute_Git) &emsp; 
   - Git - 操作教程 技巧，点击[访问在线文档](https://sanmaomashi.github.io/Salute_Git/)
 - [Salute_Frontend](https://github.com/sanmaomashi/Salute_Frontend) &emsp; 
   - 前端 - 从入门到跑路 - 学习教程，点击[访问在线文档](https://sanmaomashi.github.io/Salute_Frontend/)
-- [Salute_Linux](https://github.com/sanmaomashi/Salute_Linux) &emsp; 
-  - Linux - 从入门到跑路 - 学习教程，点击[访问在线文档](https://sanmaomashi.github.io/Salute_Linux/)
 - [Salute_Docker](https://github.com/sanmaomashi/Salute_Docker) &emsp; 
   - Docker - 从入门到跑路 - 学习教程，点击[访问在线文档](https://sanmaomashi.github.io/Salute_Docker/)
+- [Salute_Operating_System](https://github.com/sanmaomashi/Salute_Operating_System) &emsp; 
+  - 操作系统 - 从入门到跑路 - 学习教程，点击[访问在线文档](https://sanmaomashi.github.io/Salute_Operating_System/)
 - [Salute_Network](https://github.com/sanmaomashi/Salute_Network) &emsp; 
   - 计算机网络 - 从入门到跑路 - 学习教程，点击[访问在线文档](https://sanmaomashi.github.io/Salute_Network/)
 - [Salute_DataStructure](https://github.com/sanmaomashi/Salute_DataStructure) &emsp; 
