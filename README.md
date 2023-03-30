@@ -21,39 +21,39 @@
 ## 📝  笔记
 
 <a href="https://github.com/sanmaomashi/Salute_Git">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Git&theme=dark&bg_color=121212&hide_border=true" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Git&theme=highcontrast&bg_color=121212&hide_border=true" /></a>
 
 <a href="https://github.com/sanmaomashi/Salute_Frontend">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Frontend&theme=dark&bg_color=121212&hide_border=true" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Frontend&theme=dracula&bg_color=121212&hide_border=true" /></a>
 
 <br>
 
 <a href="https://github.com/sanmaomashi/Salute_Docker">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Docker&theme=dark&bg_color=121212&hide_border=true" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Docker&theme=synthwave&bg_color=121212&hide_border=true" /></a>
 
 <a href="https://github.com/sanmaomashi/Salute_Operating_System">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Operating_System&theme=dark&bg_color=121212&hide_border=true" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Operating_System&theme=cobalt&bg_color=121212&hide_border=true" /></a>
 
 <br>
 
 <a href="https://github.com/sanmaomashi/Salute_Network">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Network&theme=dark&bg_color=121212&hide_border=true" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Network&theme=onedark&bg_color=121212&hide_border=true" /></a>
 
 <a href="https://github.com/sanmaomashi/Salute_DataStructure">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_DataStructure&theme=dark&bg_color=121212&hide_border=true" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_DataStructure&theme=tokyonight&bg_color=121212&hide_border=true" /></a>
 
 <br>
 
 <a href="https://github.com/sanmaomashi/Salute_Python">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Python&theme=dark&bg_color=121212&hide_border=true" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Python&theme=gruvbox&bg_color=121212&hide_border=true" /></a>
 
 <a href="https://github.com/sanmaomashi/Salute_Databases">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Databases&theme=dark&bg_color=121212&hide_border=true" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Databases&theme=merko&bg_color=121212&hide_border=true" /></a>
 
 <br>
 
 <a href="https://github.com/sanmaomashi/Salute_Knowledge_Graph">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Knowledge_Graph&theme=dark&bg_color=121212&hide_border=true" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Knowledge_Graph&theme=radical&bg_color=121212&hide_border=true" /></a>
 
 <a href="https://github.com/sanmaomashi/Salute_MachineLearning">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_MachineLearning&theme=dark&bg_color=121212&hide_border=true" /></a>
@@ -73,4 +73,4 @@
   
 
 
-<img src="https://raw.githubusercontent.com/sanmaomashi/sanmaomashi/main/profile-3d-contrib/profile-green-animate.svg" />
+<img src="https://raw.githubusercontent.com/sanmaomashi/sanmaomashi/main/profile-3d-contrib/profile-night-rainbow.svg" />
