@@ -28,8 +28,8 @@
 
 <br>
 
-<a href="https://github.com/sanmaomashi/Salute_Docker">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Docker&theme=synthwave&bg_color=121212&hide_border=true" /></a>
+<a href="https://github.com/sanmaomashi/Salute_DeepLearning">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_DeepLearning&theme=dark&bg_color=121212&hide_border=true" /></a>
 
 <a href="https://github.com/sanmaomashi/Salute_Operating_System">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Operating_System&theme=cobalt&bg_color=121212&hide_border=true" /></a>
@@ -60,8 +60,8 @@
 
 <br>
 
-<a href="https://github.com/sanmaomashi/Salute_DeepLearning">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_DeepLearning&theme=dark&bg_color=121212&hide_border=true" /></a>
+<a href="https://github.com/sanmaomashi/Salute_Docker">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Docker&theme=synthwave&bg_color=121212&hide_border=true" /></a>
 
 <br>
 
