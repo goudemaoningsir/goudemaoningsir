@@ -64,6 +64,9 @@
 <a href="https://github.com/sanmaomashi/Salute_Docker">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Docker&theme=synthwave&bg_color=121212&hide_border=true" /></a>
 
+<a href="https://github.com/sanmaomashi/Salute_AIGC">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_AIGC&theme=dracula&bg_color=121212&hide_border=true" /></a>
+
 <br>
 
 ## ⌨️ 项目
