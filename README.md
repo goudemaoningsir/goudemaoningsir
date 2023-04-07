@@ -72,13 +72,19 @@
 # ⌨️ 项目
 <details open>
 <summary> <h2>📌 基础工具类</h2></summary>
-[多模态文件读取器](https://github.com/sanmaomashi/multimodal_file_reader) 
+
 
 - [多模态文件读取器](https://github.com/sanmaomashi/multimodal_file_reader) 
 
-支持任意编码的txt文件、docx文件、doc文件、excel文件、csv文件、ppt文件、json文件、扫描pdf、非扫描pdf、图片、音频转文字、视频文字提取等
-
 > 支持任意编码的txt文件、docx文件、doc文件、excel文件、csv文件、ppt文件、json文件、扫描pdf、非扫描pdf、图片、音频转文字、视频文字提取等
+
+<div style="background-color: #f9f9f9; border-left: 4px solid #36ad6a; padding: 16px;">
+这是一个绿色的区块。
+</div>
+
+<div style="background-color: #f9f9f9; border-left: 4px solid #e74c3c; padding: 16px;">
+这是一个红色的区块。
+</div>
 
 </details>
 
