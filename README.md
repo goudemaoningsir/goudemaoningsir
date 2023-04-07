@@ -92,13 +92,6 @@
 
 > 基于GlobalPoint命名实体识别
 >
-> 参考：
->
-> - https://github.com/taishan1994/pytorch_GlobalPointer_Ner
-> - [将“softmax+交叉熵”推广到多标签分类问题 - 科学空间|Scientific Spaces (kexue.fm)](https://kexue.fm/archives/7359)
-> - [Transformer升级之路：2、博采众长的旋转式位置编码 - 科学空间|Scientific Spaces (kexue.fm)](https://kexue.fm/archives/8265)
-> - [GlobalPointer：用统一的方式处理嵌套和非嵌套NER - 科学空间|Scientific Spaces (kexue.fm)](https://kexue.fm/archives/8373)
-> - [Efficient GlobalPointer：少点参数，多点效果 - 科学空间|Scientific Spaces (kexue.fm)](https://kexue.fm/archives/8877)
 
 </td>
 </tr>
@@ -204,6 +197,28 @@
 
 </td>
 </tr>
+</table>
+
+<table style="width:100%">
+  <thead>
+    <tr>
+      <th>Header 1</th>
+      <th>Header 2</th>
+      <th>Header 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Content 1</td>
+      <td>Content 2</td>
+      <td>Content 3</td>
+    </tr>
+    <tr>
+      <td>Content 4</td>
+      <td>Content 5</td>
+      <td>Content 6</td>
+    </tr>
+  </tbody>
 </table>
 
 <img src="https://raw.githubusercontent.com/sanmaomashi/sanmaomashi/main/profile-3d-contrib/profile-night-rainbow.svg" />
