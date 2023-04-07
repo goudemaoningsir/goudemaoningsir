@@ -71,36 +71,33 @@
 
 # ⌨️ 项目
 
-## 📌  命名实体识别
+------
 
-<table>
-<tr>
-<td>
+
+
+<details open>
+<summary> 📌 命名实体识别</summary>
  🔎 [TPLinker命名实体识别](todo) &emsp
-> TPLinker命名实体识别
-</td>
-</tr>
-<tr>
-<td>
  🔎 [GlobalPoint命名实体识别](todo) &emsp;
-> 基于GlobalPoint命名实体识别
-</td>
-</tr>
-<tr>
-<td>
  🔎 [百度UIE命名实体识别](todo) &emsp;
-> 百度UIE命名实体识别
-</td>
-</tr>
+</details>
 
-</table>
+<details open>
+<summary> <h3>📌 命名实体识别</h3></summary>
+ 🔎 [TPLinker命名实体识别](todo) &emsp
+ 🔎 [GlobalPoint命名实体识别](todo) &emsp;
+ 🔎 [百度UIE命名实体识别](todo) &emsp;
+</details>
+
+------
+
+
 
 ## 📌  分词、关键词提取
 
 <table>
-
 <tr>
-<td width=100%>
+<td>
 
  🔎 [分词](todo) &emsp;
 
@@ -187,23 +184,3 @@
 </table>
 
 <img src="https://raw.githubusercontent.com/sanmaomashi/sanmaomashi/main/profile-3d-contrib/profile-night-rainbow.svg" />
-
-<style>
-table {
-  width: 100%;
-  max-width: 100%;
-  margin-bottom: 1rem;
-  background-color: transparent;
-  border-collapse: collapse;
-}
-
-@media screen and (max-width: 767px) {
-  table {
-    display: block;
-    overflow-x: auto;
-    -ms-overflow-style: -ms-autohiding-scrollbar;
-  }
-}
-
-</style>
-
