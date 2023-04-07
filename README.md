@@ -71,11 +71,124 @@
 
 # ⌨️ 项目
 
+## 📌  命名实体识别
+
+<table>
+<tr>
+<td>
+
+
+ 🔎 [TPLinker命名实体识别](todo) &emsp;
+
+> TPLinker命名实体识别
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+ 🔎 [GlobalPoint命名实体识别](todo) &emsp;
+
+> GlobalPoint命名实体识别
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+ 🔎 [百度UIE命名实体识别](todo) &emsp;
+
+> 百度UIE命名实体识别
+
+</td>
+</tr>
+
+</table>
+
+## 📌  分词、关键词提取
+
+<table>
+
+<tr>
+<td>
+
+ 🔎 [分词](todo) &emsp;
+
+> 分词
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+ 🔎 [关键词抽取](todo) &emsp;
+
+> 关键词抽取
+
+</td>
+</tr>
+
+</table>
+
+## 📌  关系抽取
+
+<table>
+
+<tr>
+<td>
+
+ 🔎 [GlobalPoint三元组抽取](todo) &emsp;
+
+> GlobalPoint三元组抽取
+
+</td>
+</tr>
+
+</table>
+
+## 📌  事件抽取
+
+<table>
+
+<tr>
+<td>
+
+ 🔎 [指针网络事件抽取](todo) &emsp;
+
+> 指针网络事件抽取
+
+</td>
+</tr>
+
+</table>
+
+</table>
+
+## 📌  机器翻译
+
+<table>
+
+<tr>
+<td>
+
+ 🔎 [中-英机器翻译](todo) &emsp;
+
+> 中-英机器翻译
+
+</td>
+</tr>
+
+</table>
+
 ## 📌  基础工具类
 
 <table>
 <tr>
 <td>
+
 
  🔎 [多模态文件读取器](https://github.com/sanmaomashi/multimodal_file_reader) &emsp;
 
@@ -84,8 +197,5 @@
 </td>
 </tr>
 </table>
-
-
-
 
 <img src="https://raw.githubusercontent.com/sanmaomashi/sanmaomashi/main/profile-3d-contrib/profile-night-rainbow.svg" />
