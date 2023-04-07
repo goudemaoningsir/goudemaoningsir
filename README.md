@@ -73,10 +73,10 @@
 
 ## 📌  命名实体识别
 
+<div style="width:100%;">
 <table>
 <tr>
 <td>
-
 
  🔎 [TPLinker命名实体识别](todo) &emsp;
 
@@ -106,6 +106,8 @@
 </tr>
 
 </table>
+
+</div>
 
 ## 📌  分词、关键词提取
 
