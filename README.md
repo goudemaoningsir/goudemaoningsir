@@ -72,12 +72,10 @@
 # ⌨️ 项目
 
 <details open>
-<summary> <h1>📌 命名实体识别</h1></summary>
+<summary> <h2>📌 命名实体识别</h2></summary>
 
--   <p>[TPLinker命名实体识别](todo) </p>
--   <h2>[GlobalPoint命名实体识别](todo) </h2>
--   <h3>[GlobalPoint命名实体识别](todo) </h3>
--   <h4>[GlobalPoint命名实体识别](todo) </h4>
+-   [<p>TPLinker命名实体识别</p>](todo) 
+-   [<h3>GlobalPoint命名实体识别</h3>](todo) 
 
 </details>
 
