@@ -76,33 +76,20 @@
 <table>
 <tr>
 <td>
-
-
- 🔎 [TPLinker命名实体识别](todo) &emsp;
-
+ 🔎 [TPLinker命名实体识别](todo) &emsp
 > TPLinker命名实体识别
-
 </td>
 </tr>
-
 <tr>
 <td>
-
  🔎 [GlobalPoint命名实体识别](todo) &emsp;
-
 > 基于GlobalPoint命名实体识别
->
-
 </td>
 </tr>
-
 <tr>
 <td>
-
  🔎 [百度UIE命名实体识别](todo) &emsp;
-
 > 百度UIE命名实体识别
-
 </td>
 </tr>
 
@@ -113,7 +100,7 @@
 <table>
 
 <tr>
-<td>
+<td width=100%>
 
  🔎 [分词](todo) &emsp;
 
@@ -199,26 +186,24 @@
 </tr>
 </table>
 
-<table style="width:100%">
-  <thead>
-    <tr>
-      <th>Header 1</th>
-      <th>Header 2</th>
-      <th>Header 3</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Content 1</td>
-      <td>Content 2</td>
-      <td>Content 3</td>
-    </tr>
-    <tr>
-      <td>Content 4</td>
-      <td>Content 5</td>
-      <td>Content 6</td>
-    </tr>
-  </tbody>
-</table>
-
 <img src="https://raw.githubusercontent.com/sanmaomashi/sanmaomashi/main/profile-3d-contrib/profile-night-rainbow.svg" />
+
+<style>
+table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 1rem;
+  background-color: transparent;
+  border-collapse: collapse;
+}
+
+@media screen and (max-width: 767px) {
+  table {
+    display: block;
+    overflow-x: auto;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+  }
+}
+
+</style>
+
