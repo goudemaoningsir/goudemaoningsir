@@ -74,9 +74,10 @@
 <details open>
 <summary> <h1>📌 命名实体识别</h1></summary>
 
--  🔎 [TPLinker命名实体识别](todo) 
--  🔎 [GlobalPoint命名实体识别](todo) 
--  🔎 [百度UIE命名实体识别](todo) &emsp;
+-   <p>[TPLinker命名实体识别](todo) </p>
+-   <h2>[GlobalPoint命名实体识别](todo) </h2>
+-   <h3>[GlobalPoint命名实体识别](todo) </h3>
+-   <h4>[GlobalPoint命名实体识别](todo) </h4>
 
 </details>
 
