@@ -72,10 +72,19 @@
 # ⌨️ 项目
 
 <details open>
+<summary> <h2>📌 基础工具类</h2></summary>
+- 
+   [多模态文件读取器](https://github.com/sanmaomashi/multimodal_file_reader) &emsp;
+
+> 支持任意编码的txt文件、docx文件、doc文件、excel文件、csv文件、ppt文件、json文件、扫描pdf、非扫描pdf、图片、音频转文字、视频文字提取等
+
+</details>
+
+
+<details open>
 <summary> <h2>📌 命名实体识别</h2></summary>
 
 -   [<p>TPLinker命名实体识别</p>](todo) 
--   [<h3>GlobalPoint命名实体识别</h3>](todo) 
 
 </details>
 
@@ -158,19 +167,5 @@
 
 </table>
 
-## 📌  基础工具类
-
-<table>
-<tr>
-<td>
-
-
- 🔎 [多模态文件读取器](https://github.com/sanmaomashi/multimodal_file_reader) &emsp;
-
-> 支持任意编码的txt文件、docx文件、doc文件、excel文件、csv文件、ppt文件、json文件、扫描pdf、非扫描pdf、图片、音频转文字、视频文字提取等
-
-</td>
-</tr>
-</table>
 
 <img src="https://raw.githubusercontent.com/sanmaomashi/sanmaomashi/main/profile-3d-contrib/profile-night-rainbow.svg" />
