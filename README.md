@@ -71,25 +71,16 @@
 
 # ⌨️ 项目
 
-------
-
-
-
 <details open>
-<summary> 📌 命名实体识别</summary>
- 🔎 [TPLinker命名实体识别](todo) &emsp
- 🔎 [GlobalPoint命名实体识别](todo) &emsp;
- 🔎 [百度UIE命名实体识别](todo) &emsp;
+<summary> <h1>📌 命名实体识别</h1></summary>
+
+-  🔎 [TPLinker命名实体识别](todo) 
+-  🔎 [GlobalPoint命名实体识别](todo) 
+-  🔎 [百度UIE命名实体识别](todo) &emsp;
+
 </details>
 
-<details open>
-<summary> <h3>📌 命名实体识别</h3></summary>
- 🔎 [TPLinker命名实体识别](todo) &emsp
- 🔎 [GlobalPoint命名实体识别](todo) &emsp;
- 🔎 [百度UIE命名实体识别](todo) &emsp;
-</details>
 
-------
 
 
 
