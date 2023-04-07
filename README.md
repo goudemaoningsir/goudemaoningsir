@@ -19,7 +19,7 @@
 
 
 
-## 📝  笔记
+# 📝  笔记
 
 <a href="https://github.com/sanmaomashi/Salute_Git">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Git&theme=highcontrast&bg_color=121212&hide_border=true" /></a>
