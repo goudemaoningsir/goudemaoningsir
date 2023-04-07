@@ -73,10 +73,10 @@
 
 ## 📌  命名实体识别
 
-<div style="width:100%;">
 <table>
 <tr>
 <td>
+
 
  🔎 [TPLinker命名实体识别](todo) &emsp;
 
@@ -90,7 +90,15 @@
 
  🔎 [GlobalPoint命名实体识别](todo) &emsp;
 
-> GlobalPoint命名实体识别
+> 基于GlobalPoint命名实体识别
+>
+> 参考：
+>
+> - https://github.com/taishan1994/pytorch_GlobalPointer_Ner
+> - [将“softmax+交叉熵”推广到多标签分类问题 - 科学空间|Scientific Spaces (kexue.fm)](https://kexue.fm/archives/7359)
+> - [Transformer升级之路：2、博采众长的旋转式位置编码 - 科学空间|Scientific Spaces (kexue.fm)](https://kexue.fm/archives/8265)
+> - [GlobalPointer：用统一的方式处理嵌套和非嵌套NER - 科学空间|Scientific Spaces (kexue.fm)](https://kexue.fm/archives/8373)
+> - [Efficient GlobalPointer：少点参数，多点效果 - 科学空间|Scientific Spaces (kexue.fm)](https://kexue.fm/archives/8877)
 
 </td>
 </tr>
@@ -106,8 +114,6 @@
 </tr>
 
 </table>
-
-</div>
 
 ## 📌  分词、关键词提取
 
