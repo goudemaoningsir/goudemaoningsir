@@ -19,20 +19,26 @@
 
 <br>
 
-<details open>
 
 <br>
-
 
 # ⌨️ 项目
 
 <br>
+
+<details open>
 
 <summary> <h2>📌 自然语言处理</h2></summary>
 
 - [分词服务](https://github.com/sanmaomashi/word_seg_service) 
 
 <br>
+
+</details>
+
+<br>
+
+<details open>
 
 <summary> <h2>📌 基础工具类</h2></summary>
 
