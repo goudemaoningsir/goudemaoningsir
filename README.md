@@ -19,10 +19,9 @@
 
 <br>
 
+<details open>
 # ⌨️ 项目
 
-<details open>
-<br>
 <br>
 
 <summary> <h2>📌 自然语言处理</h2></summary>
