@@ -20,19 +20,20 @@
 <br>
 
 # ⌨️ 项目
-<details open>
+
 
 <summary> <h2>📌 自然语言处理</h2></summary>
-
-</details>
-<br>
 <details open>
 
 - [分词服务](https://github.com/sanmaomashi/word_seg_service) 
 
+</details>
+
+<br>
 
 <summary> <h2>📌 基础工具类</h2></summary>
 
+<details open>
 
 - [多模态文件读取器](https://github.com/sanmaomashi/multimodal_file_reader) 
 
