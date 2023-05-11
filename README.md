@@ -24,6 +24,9 @@
 
 <summary> <h2>📌 自然语言处理</h2></summary>
 
+</details>
+<br>
+<details open>
 
 - [分词服务](https://github.com/sanmaomashi/word_seg_service) 
 
@@ -40,8 +43,6 @@
 
 
 # 📝  笔记
-
-<details open>
 
 <a href="https://github.com/sanmaomashi/Salute_Git">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Git&theme=highcontrast&bg_color=121212&hide_border=true" /></a>
@@ -89,7 +90,6 @@
 <a href="https://github.com/sanmaomashi/Salute_AIGC">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_AIGC&theme=dracula&bg_color=121212&hide_border=true" /></a>
 
-</details>
 <br>
 
 
