@@ -17,7 +17,23 @@
   <img src="https://raw.githubusercontent.com/sanmaomashi/sanmaomashi/main/assets/github-contribution-grid-snake.svg"/>
 
 
+<br>
 
+# ⌨️ 项目
+<details open>
+
+<summary> <h2>📌 自然语言处理</h2></summary>
+
+
+- [分词服务](https://github.com/sanmaomashi/word_seg_service) 
+
+
+<summary> <h2>📌 基础工具类</h2></summary>
+
+
+- [多模态文件读取器](https://github.com/sanmaomashi/multimodal_file_reader) 
+
+<br>
 
 # 📝  笔记
 
@@ -68,14 +84,6 @@
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_AIGC&theme=dracula&bg_color=121212&hide_border=true" /></a>
 
 <br>
-
-# ⌨️ 项目
-<details open>
-<summary> <h2>📌 基础工具类</h2></summary>
-
-
-- [多模态文件读取器](https://github.com/sanmaomashi/multimodal_file_reader) 
-
 
 
 </details>
