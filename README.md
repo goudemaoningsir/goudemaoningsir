@@ -57,8 +57,8 @@
 
 <br>
 
-<a href="https://github.com/sanmaomashi/Salute_DeepLearning">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_DeepLearning&theme=dark&bg_color=121212&hide_border=true" /></a>
+<a href="https://github.com/sanmaomashi/Salute_Artificial_Intelligence">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Artificial_Intelligence&theme=dark&bg_color=121212&hide_border=true" /></a>
 
 <a href="https://github.com/sanmaomashi/Salute_Operating_System">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Operating_System&theme=cobalt&bg_color=121212&hide_border=true" /></a>
@@ -84,19 +84,10 @@
 <a href="https://github.com/sanmaomashi/Salute_Knowledge_Graph">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Knowledge_Graph&theme=radical&bg_color=121212&hide_border=true" /></a>
 
-<a href="https://github.com/sanmaomashi/Salute_MachineLearning">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_MachineLearning&theme=dark&bg_color=121212&hide_border=true" /></a>
-
-<br>
-
 <a href="https://github.com/sanmaomashi/Salute_Frontend">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Frontend&theme=dracula&bg_color=121212&hide_border=true" /></a>
 
-<a href="https://github.com/sanmaomashi/Salute_AIGC">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_AIGC&theme=dracula&bg_color=121212&hide_border=true" /></a>
-
 <br>
-
 
 
 <img src="https://raw.githubusercontent.com/sanmaomashi/sanmaomashi/main/profile-3d-contrib/profile-night-rainbow.svg" />
