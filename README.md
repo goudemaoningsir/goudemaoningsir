@@ -28,7 +28,7 @@
 
 <summary> <h2>📌 自然语言处理</h2></summary>
 
-- [分词服务](https://github.com/sanmaomashi/word_seg_service) 
+- [分词](https://github.com/sanmaomashi/word_seg_service) 
 
 <br>
 
@@ -40,7 +40,7 @@
 
 <summary> <h2>📌 基础工具类</h2></summary>
 
-- [多模态文件读取器](https://github.com/sanmaomashi/multimodal_file_reader) 
+- [文件读取器](https://github.com/sanmaomashi/FileParse) 
 
 <br>
 </details>
