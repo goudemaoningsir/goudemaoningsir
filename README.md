@@ -28,7 +28,7 @@
 
 <summary> <h2>📌 自然语言处理</h2></summary>
 
-- [分词](https://github.com/sanmaomashi/word_seg_service) 
+- [分词](https://github.com/sanmaomashi/word_seg) 
 
 <br>
 
