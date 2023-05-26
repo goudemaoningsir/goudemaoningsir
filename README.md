@@ -38,6 +38,18 @@
 
 <details open>
 
+<summary> <h2>📌 语音</h2></summary>
+
+- [语音合成](https://github.com/sanmaomashi/speech_synthesis) 
+
+<br>
+
+</details>
+
+<br>
+
+<details open>
+
 <summary> <h2>📌 基础工具类</h2></summary>
 
 - [文件读取器](https://github.com/sanmaomashi/FileParse) 
