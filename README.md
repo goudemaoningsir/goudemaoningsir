@@ -69,18 +69,18 @@
 <br>
 
 <a href="https://github.com/sanmaomashi/Salute_Network">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Network&theme=onedark&bg_color=121212&hide_border=true" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Network&show_icons=true&theme=graywhite&hide_border=false" /></a>
 
 <a href="https://github.com/sanmaomashi/Salute_DataStructure">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_DataStructure&theme=tokyonight&bg_color=121212&hide_border=true" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_DataStructure&show_icons=true&theme=graywhite&hide_border=false" /></a>
 
 <br>
 
 <a href="https://github.com/sanmaomashi/Salute_Git">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Git&theme=highcontrast&bg_color=121212&hide_border=true" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Git&show_icons=true&theme=graywhite&hide_border=false" /></a>
 
 <a href="https://github.com/sanmaomashi/Salute_Docker">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Docker&theme=synthwave&bg_color=121212&hide_border=true" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Docker&show_icons=true&theme=graywhite&hide_border=false" /></a>
 
 <br>
 
