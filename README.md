@@ -72,7 +72,7 @@
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Network&show_icons=true&theme=radical&hide_border=false" /></a>
 
 <a href="https://github.com/sanmaomashi/Salute_DataStructure">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_DataStructure&show_icons=true&theme=transparent&hide_border=false" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_DataStructure&show_icons=true&theme=codeSTACKr&hide_border=false" /></a>
 
 <br>
 
@@ -85,10 +85,10 @@
 <br>
 
 <a href="https://github.com/sanmaomashi/Salute_Python">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Python&show_icons=true&theme=graywhite&hide_border=false" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Python&show_icons=true&theme=blueberry&hide_border=false" /></a>
 
 <a href="https://github.com/sanmaomashi/Salute_Databases">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Databases&show_icons=true&theme=graywhite&hide_border=false" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Databases&show_icons=true&theme=omni&hide_border=false" /></a>
 
 <br>
 
