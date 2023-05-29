@@ -80,7 +80,7 @@
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Git&show_icons=true&theme=merko&hide_border=false" /></a>
 
 <a href="https://github.com/sanmaomashi/Salute_Docker">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Docker&show_icons=true&theme=vue-dark&hide_border=false" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Docker&show_icons=true&theme=vision-friendly-dark&hide_border=false" /></a>
 
 <br>
 
