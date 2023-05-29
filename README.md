@@ -61,16 +61,8 @@
 
 # 📝  笔记
 
-<a href="https://github.com/sanmaomashi/Salute_Git">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Git&theme=highcontrast&bg_color=121212&hide_border=true" /></a>
-
-<a href="https://github.com/sanmaomashi/Salute_Docker">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Docker&theme=synthwave&bg_color=121212&hide_border=true" /></a>
-
-<br>
-
-<a href="https://github.com/sanmaomashi/Salute_Artificial_Intelligence">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Artificial_Intelligence&theme=dark&bg_color=121212&hide_border=true" /></a>
+<a href="https://github.com/sanmaomashi/Salute_Computer_Organization">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Computer_Organization&theme=dark&bg_color=121212&hide_border=true" /></a>
 
 <a href="https://github.com/sanmaomashi/Salute_Operating_System">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Operating_System&theme=cobalt&bg_color=121212&hide_border=true" /></a>
@@ -82,6 +74,15 @@
 
 <a href="https://github.com/sanmaomashi/Salute_DataStructure">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_DataStructure&theme=tokyonight&bg_color=121212&hide_border=true" /></a>
+
+<br>
+
+
+<a href="https://github.com/sanmaomashi/Salute_Git">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Git&theme=highcontrast&bg_color=121212&hide_border=true" /></a>
+
+<a href="https://github.com/sanmaomashi/Salute_Docker">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Docker&theme=synthwave&bg_color=121212&hide_border=true" /></a>
 
 <br>
 
