@@ -61,7 +61,7 @@
 
 # 📝  笔记
 <a href="https://github.com/sanmaomashi/Salute_Computer_Organization">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Computer_Organization&show_icons=true&theme=graywhite&hide_border=true" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Computer_Organization&show_icons=true&theme=graywhite&hide_border=false" /></a>
 
 <a href="https://github.com/sanmaomashi/Salute_Operating_System">
 <img src="https://github-readme-stats.vercel.app/api/pin?username=sanmaomashi&repo=Salute_Operating_System&show_icons=true&theme=graywhite " /></a>
