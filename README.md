@@ -96,7 +96,7 @@
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Deep_Learning&show_icons=true&theme=nightowl&hide_border=false" /></a>
 
 <a href="https://github.com/sanmaomashi/Salute_Machine_Learning">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Machine_Learning&show_icons=true&theme=graywhite&hide_border=false" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Machine_Learning&show_icons=true&theme=chartreuse-dark&hide_border=false" /></a>
 
 <br>
 
