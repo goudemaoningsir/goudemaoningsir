@@ -14,7 +14,7 @@
   </div>
 </div>
 
-  <img src="https://raw.githubusercontent.com/goudemaoningsir/goudemaoningsir/main/assets/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/goudemaoningsir/goudemaoningsir/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 
 
 <br>
