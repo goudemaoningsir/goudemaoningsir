@@ -13,7 +13,6 @@
     <a href="https://www.zhihu.com/people/sunnyzgf"><img src="https://img.shields.io/badge/Zhihu-三猫码士-important?logo=Zhihu&logoColor=white" /></a>&emsp;
   </div>
 </div>
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/goudemaoningsir/goudemaoningsir/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 
 <picture>
 
