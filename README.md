@@ -14,7 +14,7 @@
   </div>
 </div>
 
-  <img src="https://raw.githubusercontent.com/sanmaomashi/sanmaomashi/main/assets/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/goudemaoningsir/goudemaoningsir/main/assets/github-contribution-grid-snake.svg"/>
 
 
 <br>
@@ -25,10 +25,9 @@
 # ⌨️ 项目
 
 <details open>
-
 <summary> <h2>📌 自然语言处理</h2></summary>
 
-- [分词](https://github.com/sanmaomashi/word_seg) 
+- [分词](https://github.com/goudemaoningsir/word_seg) 
 
 <br>
 
@@ -40,7 +39,7 @@
 
 <summary> <h2>📌 语音</h2></summary>
 
-- [语音合成](https://github.com/sanmaomashi/speech_synthesis) 
+- [语音合成](https://github.com/goudemaoningsir/speech_synthesis) 
 
 <br>
 
@@ -52,7 +51,7 @@
 
 <summary> <h2>📌 基础工具类</h2></summary>
 
-- [文件读取器](https://github.com/sanmaomashi/FileParse) 
+- [文件读取器](https://github.com/goudemaoningsir/FileParse) 
 
 <br>
 </details>
@@ -60,52 +59,52 @@
 
 
 # 📝  笔记
-<a href="https://github.com/sanmaomashi/Salute_Computer_Organization">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Computer_Organization&show_icons=true&theme=highcontrast&hide_border=false" /></a>
+<a href="https://github.com/goudemaoningsir/Salute_Computer_Organization">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Computer_Organization&show_icons=true&theme=highcontrast&hide_border=false" /></a>
 
-<a href="https://github.com/sanmaomashi/Salute_Operating_System">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Operating_System&show_icons=true&theme=dark&hide_border=false" /></a>
-
-<br>
-
-<a href="https://github.com/sanmaomashi/Salute_Network">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Network&show_icons=true&theme=radical&hide_border=false" /></a>
-
-<a href="https://github.com/sanmaomashi/Salute_DataStructure">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_DataStructure&show_icons=true&theme=codeSTACKr&hide_border=false" /></a>
+<a href="https://github.com/goudemaoningsir/Salute_Operating_System">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Operating_System&show_icons=true&theme=dark&hide_border=false" /></a>
 
 <br>
 
-<a href="https://github.com/sanmaomashi/Salute_Git">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Git&show_icons=true&theme=merko&hide_border=false" /></a>
+<a href="https://github.com/goudemaoningsir/Salute_Network">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Network&show_icons=true&theme=radical&hide_border=false" /></a>
 
-<a href="https://github.com/sanmaomashi/Salute_Docker">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Docker&show_icons=true&theme=vision-friendly-dark&hide_border=false" /></a>
-
-<br>
-
-<a href="https://github.com/sanmaomashi/Salute_Python">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Python&show_icons=true&theme=blueberry&hide_border=false" /></a>
-
-<a href="https://github.com/sanmaomashi/Salute_Databases">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Databases&show_icons=true&theme=omni&hide_border=false" /></a>
+<a href="https://github.com/goudemaoningsir/Salute_DataStructure">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_DataStructure&show_icons=true&theme=codeSTACKr&hide_border=false" /></a>
 
 <br>
 
-<a href="https://github.com/sanmaomashi/Salute_Deep_Learning">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Deep_Learning&show_icons=true&theme=nightowl&hide_border=false" /></a>
+<a href="https://github.com/goudemaoningsir/Salute_Git">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Git&show_icons=true&theme=merko&hide_border=false" /></a>
 
-<a href="https://github.com/sanmaomashi/Salute_Machine_Learning">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Machine_Learning&show_icons=true&theme=chartreuse-dark&hide_border=false" /></a>
-
-<br>
-
-<a href="https://github.com/sanmaomashi/Salute_Knowledge_Graph">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Knowledge_Graph&show_icons=true&theme=algolia&hide_border=false" /></a>
-
-<a href="https://github.com/sanmaomashi/Salute_Frontend">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sanmaomashi&repo=Salute_Frontend&show_icons=true&theme=react&hide_border=false" /></a>
+<a href="https://github.com/goudemaoningsir/Salute_Docker">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Docker&show_icons=true&theme=vision-friendly-dark&hide_border=false" /></a>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/sanmaomashi/sanmaomashi/main/profile-3d-contrib/profile-gitblock.svg" />
+<a href="https://github.com/goudemaoningsir/Salute_Python">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Python&show_icons=true&theme=blueberry&hide_border=false" /></a>
+
+<a href="https://github.com/goudemaoningsir/Salute_Databases">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Databases&show_icons=true&theme=omni&hide_border=false" /></a>
+
+<br>
+
+<a href="https://github.com/goudemaoningsir/Salute_Deep_Learning">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Deep_Learning&show_icons=true&theme=nightowl&hide_border=false" /></a>
+
+<a href="https://github.com/goudemaoningsir/Salute_Machine_Learning">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Machine_Learning&show_icons=true&theme=chartreuse-dark&hide_border=false" /></a>
+
+<br>
+
+<a href="https://github.com/goudemaoningsir/Salute_Knowledge_Graph">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Knowledge_Graph&show_icons=true&theme=algolia&hide_border=false" /></a>
+
+<a href="https://github.com/goudemaoningsir/Salute_Frontend">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Frontend&show_icons=true&theme=react&hide_border=false" /></a>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/goudemaoningsir/goudemaoningsir/main/profile-3d-contrib/profile-gitblock.svg" />
