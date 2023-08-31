@@ -70,6 +70,15 @@
 <br>
 
 
+
+<a href="https://github.com/goudemaoningsir/Salute_Docker">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Docker&show_icons=true&theme=vision-friendly-dark&hide_border=false" /></a>
+
+<a href="https://github.com/goudemaoningsir/Salute_Databases">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Databases&show_icons=true&theme=omni&hide_border=false" /></a>
+
+<br>
+
 <a href="https://github.com/goudemaoningsir/Salute_Computer_Organization">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Computer_Organization&show_icons=true&theme=highcontrast&hide_border=false" /></a>
 
@@ -86,14 +95,6 @@
 
 <br>
 
-
-<a href="https://github.com/goudemaoningsir/Salute_Docker">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Docker&show_icons=true&theme=vision-friendly-dark&hide_border=false" /></a>
-
-<a href="https://github.com/goudemaoningsir/Salute_Databases">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Databases&show_icons=true&theme=omni&hide_border=false" /></a>
-
-<br>
 
 <a href="https://github.com/goudemaoningsir/Salute_Deep_Learning">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Deep_Learning&show_icons=true&theme=nightowl&hide_border=false" /></a>
