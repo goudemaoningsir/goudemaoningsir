@@ -90,25 +90,8 @@
 <a href="https://github.com/goudemaoningsir/Salute_Network">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Network&show_icons=true&theme=radical&hide_border=false" /></a>
 
-<a href="https://github.com/goudemaoningsir/Salute_DataStructure">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_DataStructure&show_icons=true&theme=codeSTACKr&hide_border=false" /></a>
-
-<br>
-
-
-<a href="https://github.com/goudemaoningsir/Salute_Deep_Learning">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Deep_Learning&show_icons=true&theme=nightowl&hide_border=false" /></a>
-
-<a href="https://github.com/goudemaoningsir/Salute_Machine_Learning">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Machine_Learning&show_icons=true&theme=chartreuse-dark&hide_border=false" /></a>
-
-<br>
-
 <a href="https://github.com/goudemaoningsir/Salute_Knowledge_Graph">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Knowledge_Graph&show_icons=true&theme=algolia&hide_border=false" /></a>
-
-<a href="https://github.com/goudemaoningsir/Salute_Frontend">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Frontend&show_icons=true&theme=react&hide_border=false" /></a>
 
 <br>
 
