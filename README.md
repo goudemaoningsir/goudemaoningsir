@@ -90,8 +90,8 @@
 <a href="https://github.com/goudemaoningsir/Salute_Network">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Network&show_icons=true&theme=radical&hide_border=false" /></a>
 
-<a href="https://github.com/goudemaoningsir/Salute_Knowledge_Graph">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Knowledge_Graph&show_icons=true&theme=algolia&hide_border=false" /></a>
+<a href="https://github.com/goudemaoningsir/Salute_KG">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_KG&show_icons=true&theme=algolia&hide_border=false" /></a>
 
 <br>
 
