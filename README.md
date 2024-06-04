@@ -13,11 +13,6 @@
   </div>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 ![snake](https://raw.githubusercontent.com/goudemaoningsir/goudemaoningsir/7df2db997557d6d194ffc8326eea93dcb9c60b6f/github-contribution-grid-snake.svg)
 
 
