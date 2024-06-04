@@ -25,10 +25,10 @@
 
 # 📝  笔记
 
-[![Salute_Math](https://github-readme-stats.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Math&show_icons=true&theme=dark&hide_border=false)](https://github.com/goudemaoningsir/Salute_Math)
+[![Salute_Math](https://github-readme-stats.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Math&theme=dark&hide_border=false)](https://github.com/goudemaoningsir/Salute_Math)
 
 
-[![Salute_Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Algorithm&show_icons=true&theme=radical&hide_border=false)](https://github.com/goudemaoningsir/Salute_Algorithm)
+[![Salute_Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Algorithm&theme=radical&hide_border=false)](https://github.com/goudemaoningsir/Salute_Algorithm)
 
 <br>
 
