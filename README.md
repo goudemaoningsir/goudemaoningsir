@@ -37,6 +37,11 @@
 <a href="https://github.com/goudemaoningsir/Salute_Python">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Python&show_icons=true&theme=vision-friendly-dark&hide_border=false" /></a>
 
+
+
+<a href="https://github.com/goudemaoningsir/Salute_AI">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_AI&show_icons=true&theme=vision-friendly-dark&hide_border=false" /></a>
+
 <br>
 
 
