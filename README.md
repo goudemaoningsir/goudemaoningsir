@@ -73,11 +73,37 @@
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Git&show_icons=true&theme=merko&hide_border=false" /></a>
 
 # 📖 目录
-## 数学基础
+<details open>
+<summary> <h2>数学基础</h2></summary>
 
-## 数据结构与算法
+- [线性代数](https://github.com/goudemaoningsir/word_seg) 
 
-## Python
+<br>
+
+</details>
+
+<br>
+<details open>
+<summary> <h2>数据结构与算法</h2></summary>
+
+- [线性代数](https://github.com/goudemaoningsir/word_seg) 
+
+<br>
+
+</details>
+
+<br>
+<details open>
+<summary> <h2>Python</h2></summary>
+
+- [线性代数](https://github.com/goudemaoningsir/word_seg) 
+
+<br>
+
+</details>
+
+<br>
+
 
 
 # ⌨️ 项目
