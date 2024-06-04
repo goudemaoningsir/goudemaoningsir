@@ -25,7 +25,7 @@
 
 # 📝  笔记
 
-[![Salute_Math](https://github-readme-stats.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Math)](https://github.com/goudemaoningsir/Salute_Math)
+[![Salute_Math](https://github-readme-stats.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Math&hide=description)](https://github.com/goudemaoningsir/Salute_Math)
 
 <a href="https://github.com/goudemaoningsir/Salute_Math">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Math&show_icons=true&theme=blueberry&hide_border=false&description=false" /></a>
