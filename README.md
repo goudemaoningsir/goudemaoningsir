@@ -7,10 +7,9 @@
 <div align="center">
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://twitter.com/sanmaomashi"><img src="https://img.shields.io/badge/Twitter-三猫码士-blue?logo=Twitter&logoColor=white" /></a>&emsp;
-    <a href="mailto:gf13951891236@gmail.com"><img src="https://img.shields.io/badge/Gmail-三猫码士-D14836?logo=Gmail&logoColor=white" /></a>&emsp;
-    <a href="https://blog.csdn.net/weixin_44557056"><img src="https://img.shields.io/badge/CSDN-三猫码士-c32136?logo=Celery&logoColor=white" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/sunnyzgf"><img src="https://img.shields.io/badge/Zhihu-三猫码士-important?logo=Zhihu&logoColor=white" /></a>&emsp;
+    <a href="mailto:gf13951891236@gmail.com"><img src="https://img.shields.io/badge/Gmail-狗德猫宁sir-D14836?logo=Gmail&logoColor=white" /></a>&emsp;
+    <a href="https://blog.csdn.net/weixin_44557056"><img src="https://img.shields.io/badge/CSDN-狗德猫宁sir-c32136?logo=Celery&logoColor=white" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/sunnyzgf"><img src="https://img.shields.io/badge/Zhihu-狗德猫宁sir-important?logo=Zhihu&logoColor=white" /></a>&emsp;
   </div>
 </div>
 
@@ -23,6 +22,47 @@
 
 
 <br>
+
+# 📝  笔记
+
+
+<a href="https://github.com/goudemaoningsir/Salute_Math">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Math&show_icons=true&theme=blueberry&hide_border=false" /></a>
+
+<a href="https://github.com/goudemaoningsir/Salute_Algorithm">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Algorithm&show_icons=true&theme=blueberry&hide_border=false" /></a>
+
+<br>
+
+
+
+<a href="https://github.com/goudemaoningsir/Salute_Docker">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Docker&show_icons=true&theme=vision-friendly-dark&hide_border=false" /></a>
+
+<a href="https://github.com/goudemaoningsir/Salute_Databases">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Databases&show_icons=true&theme=omni&hide_border=false" /></a>
+
+<br>
+
+<a href="https://github.com/goudemaoningsir/Salute_Computer_Organization">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Computer_Organization&show_icons=true&theme=highcontrast&hide_border=false" /></a>
+
+<a href="https://github.com/goudemaoningsir/Salute_Operating_System">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Operating_System&show_icons=true&theme=dark&hide_border=false" /></a>
+
+<br>
+
+<a href="https://github.com/goudemaoningsir/Salute_Network">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Network&show_icons=true&theme=radical&hide_border=false" /></a>
+
+<a href="https://github.com/goudemaoningsir/Salute_KG">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_KG&show_icons=true&theme=algolia&hide_border=false" /></a>
+
+<br>
+
+<a href="https://github.com/goudemaoningsir/Salute_Git">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Git&show_icons=true&theme=merko&hide_border=false" /></a>
+
 
 # ⌨️ 项目
 
@@ -60,39 +100,5 @@
 <br>
 
 
-# 📝  笔记
-<a href="https://github.com/goudemaoningsir/Salute_Git">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Git&show_icons=true&theme=merko&hide_border=false" /></a>
-
-<a href="https://github.com/goudemaoningsir/Salute_Python">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Python&show_icons=true&theme=blueberry&hide_border=false" /></a>
-
-<br>
-
-
-
-<a href="https://github.com/goudemaoningsir/Salute_Docker">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Docker&show_icons=true&theme=vision-friendly-dark&hide_border=false" /></a>
-
-<a href="https://github.com/goudemaoningsir/Salute_Databases">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Databases&show_icons=true&theme=omni&hide_border=false" /></a>
-
-<br>
-
-<a href="https://github.com/goudemaoningsir/Salute_Computer_Organization">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Computer_Organization&show_icons=true&theme=highcontrast&hide_border=false" /></a>
-
-<a href="https://github.com/goudemaoningsir/Salute_Operating_System">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Operating_System&show_icons=true&theme=dark&hide_border=false" /></a>
-
-<br>
-
-<a href="https://github.com/goudemaoningsir/Salute_Network">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Network&show_icons=true&theme=radical&hide_border=false" /></a>
-
-<a href="https://github.com/goudemaoningsir/Salute_KG">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_KG&show_icons=true&theme=algolia&hide_border=false" /></a>
-
-<br>
 
 <img src="https://raw.githubusercontent.com/goudemaoningsir/goudemaoningsir/main/profile-3d-contrib/profile-gitblock.svg" />
