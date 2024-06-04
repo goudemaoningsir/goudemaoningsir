@@ -75,14 +75,13 @@
 
 # 📖 目录
 
-<summary> <h2>数学基础</h2></summary>
-- [线性代数](https://github.com/goudemaoningsir/word_seg) 
+## 数学基础
 
 <br>
-<summary> <h2>数据结构与算法</h2></summary>
+## 数据结构与算法
 
 <br>
-<summary> <h2>Python</h2></summary>
+## Python
 
 <br>
 
