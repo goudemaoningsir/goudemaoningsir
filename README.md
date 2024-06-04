@@ -27,20 +27,20 @@
 
 
 <a href="https://github.com/goudemaoningsir/Salute_Math">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Math&show_icons=true&theme=blueberry&hide_border=false" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Math&show_icons=true&theme=blueberry&hide_border=false&description=false" /></a>
 
 <a href="https://github.com/goudemaoningsir/Salute_Algorithm">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Algorithm&show_icons=true&theme=gruvbox&hide_border=false" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Algorithm&show_icons=true&theme=gruvbox&hide_border=false&description=false" /></a>
 
 <br>
 
 <a href="https://github.com/goudemaoningsir/Salute_Python">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Python&show_icons=true&theme=vision-friendly-dark&hide_border=false" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Python&show_icons=true&theme=vision-friendly-dark&hide_border=false&description=false" /></a>
 
 
 
 <a href="https://github.com/goudemaoningsir/Salute_AI">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_AI&show_icons=true&theme=cobalt&hide_border=false" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_AI&show_icons=true&theme=cobalt&hide_border=false&description=false" /></a>
 
 <br>
 
