@@ -25,17 +25,22 @@
 
 # 📝  笔记
 
-[![Salute_Math](https://github-readme-stats.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Math&theme=dark&hide_border=false)](https://github.com/goudemaoningsir/Salute_Math)
 
+<a href="https://github.com/goudemaoningsir/Salute_Math">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Math&show_icons=true&theme=dark&hide_border=false" /></a>
 
-[![Salute_Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Algorithm&theme=radical&hide_border=false)](https://github.com/goudemaoningsir/Salute_Algorithm)
+<a href="https://github.com/goudemaoningsir/Salute_Algorithm">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Algorithm&show_icons=true&theme=radical&hide_border=false" /></a>
 
 <br>
 
-[![Salute_Python](https://github-readme-stats.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Python&show_icons=true&theme=merko&hide_border=false)](https://github.com/goudemaoningsir/Salute_Python)
+<a href="https://github.com/goudemaoningsir/Salute_Python">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Python&show_icons=true&theme=merko&hide_border=false" /></a>
 
-[![Salute_AI](https://github-readme-stats.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_AI&show_icons=true&theme=gruvbox&hide_border=false)](https://github.com/goudemaoningsir/Salute_AI)
 
+
+<a href="https://github.com/goudemaoningsir/Salute_AI">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_AI&show_icons=true&theme=gruvbox&hide_border=false" /></a>
 
 <br>
 
