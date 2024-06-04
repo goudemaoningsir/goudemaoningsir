@@ -34,6 +34,10 @@
 
 <br>
 
+<a href="https://github.com/goudemaoningsir/Salute_Python">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Python&show_icons=true&theme=vision-friendly-dark&hide_border=false" /></a>
+
+<br>
 
 
 <a href="https://github.com/goudemaoningsir/Salute_Docker">
@@ -62,6 +66,13 @@
 
 <a href="https://github.com/goudemaoningsir/Salute_Git">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Git&show_icons=true&theme=merko&hide_border=false" /></a>
+
+# 📖 目录
+## 数学基础
+
+## 数据结构与算法
+
+## Python
 
 
 # ⌨️ 项目
