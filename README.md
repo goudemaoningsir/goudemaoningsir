@@ -25,48 +25,41 @@
 
 # 📝  笔记
 
-[![Salute_Math](https://github-readme-stats.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Math&show_icons=false&theme=blueberry&hide_border=false)](https://github.com/goudemaoningsir/Salute_Math)
+[![Salute_Math](https://github-readme-stats.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Math&show_icons=true&theme=dark&hide_border=false)](https://github.com/goudemaoningsir/Salute_Math)
 
-<a href="https://github.com/goudemaoningsir/Salute_Math">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Math&show_icons=true&theme=blueberry&hide_border=false" /></a>
-
-<a href="https://github.com/goudemaoningsir/Salute_Algorithm">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Algorithm&show_icons=true&theme=gruvbox&hide_border=false&description=false" /></a>
+[![Salute_Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Algorithm&show_icons=true&theme=radical&hide_border=false)](https://github.com/goudemaoningsir/Salute_Algorithm)
 
 <br>
 
-<a href="https://github.com/goudemaoningsir/Salute_Python">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Python&show_icons=true&theme=vision-friendly-dark&hide_border=false&description=false" /></a>
+[![Salute_Python](https://github-readme-stats.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Python&show_icons=true&theme=merko&hide_border=false)](https://github.com/goudemaoningsir/Salute_Python)
 
+[![Salute_AI](https://github-readme-stats.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_AI&show_icons=true&theme=gruvbox&hide_border=false)](https://github.com/goudemaoningsir/Salute_AI)
 
-
-<a href="https://github.com/goudemaoningsir/Salute_AI">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_AI&show_icons=true&theme=cobalt&hide_border=false&description=false" /></a>
 
 <br>
 
 
 <a href="https://github.com/goudemaoningsir/Salute_Docker">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Docker&show_icons=true&theme=vision-friendly-dark&hide_border=false" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Docker&show_icons=true&theme=tokyonight&hide_border=false" /></a>
 
 <a href="https://github.com/goudemaoningsir/Salute_Databases">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Databases&show_icons=true&theme=omni&hide_border=false" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Databases&show_icons=true&theme=onedark&hide_border=false" /></a>
 
 <br>
 
 <a href="https://github.com/goudemaoningsir/Salute_Computer_Organization">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Computer_Organization&show_icons=true&theme=highcontrast&hide_border=false" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Computer_Organization&show_icons=true&theme=cobalt&hide_border=false" /></a>
 
 <a href="https://github.com/goudemaoningsir/Salute_Operating_System">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Operating_System&show_icons=true&theme=dark&hide_border=false" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Operating_System&show_icons=true&theme=synthwave&hide_border=false" /></a>
 
 <br>
 
 <a href="https://github.com/goudemaoningsir/Salute_Network">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Network&show_icons=true&theme=radical&hide_border=false" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Network&show_icons=true&theme=highcontrast&hide_border=false" /></a>
 
 <a href="https://github.com/goudemaoningsir/Salute_KG">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_KG&show_icons=true&theme=algolia&hide_border=false" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_KG&show_icons=true&theme=dracula&hide_border=false" /></a>
 
 <br>
 
