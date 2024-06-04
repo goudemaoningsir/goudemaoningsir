@@ -72,9 +72,12 @@
 <a href="https://github.com/goudemaoningsir/Salute_Git">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Git&show_icons=true&theme=merko&hide_border=false" /></a>
 
-# 📖 目录
 <details open>
+
+# 📖 目录
+
 <summary> <h2>数学基础</h2></summary>
+
 
 - [线性代数](https://github.com/goudemaoningsir/word_seg) 
 
@@ -83,6 +86,7 @@
 
 <br>
 <summary> <h2>Python</h2></summary>
+
 </details>
 
 <br>
