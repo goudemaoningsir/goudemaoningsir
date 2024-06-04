@@ -79,31 +79,13 @@
 - [线性代数](https://github.com/goudemaoningsir/word_seg) 
 
 <br>
-
-</details>
-
-<br>
-<details open>
 <summary> <h2>数据结构与算法</h2></summary>
 
-- [线性代数](https://github.com/goudemaoningsir/word_seg) 
-
 <br>
-
-</details>
-
-<br>
-<details open>
 <summary> <h2>Python</h2></summary>
-
-- [线性代数](https://github.com/goudemaoningsir/word_seg) 
-
-<br>
-
 </details>
 
 <br>
-
 
 
 # ⌨️ 项目
