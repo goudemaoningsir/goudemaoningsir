@@ -77,6 +77,10 @@
 
 ## 数据结构与算法
 
+### [数组](https://github.com/goudemaoningsir/Salute_Algorithm/tree/main/docs/sections/%E6%95%B0%E7%BB%84)
+
+### [链表](https://github.com/goudemaoningsir/Salute_Algorithm/tree/main/docs/sections/%E9%93%BE%E8%A1%A8)
+
 ## Python
 
 <br>
