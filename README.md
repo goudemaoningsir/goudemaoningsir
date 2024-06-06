@@ -89,6 +89,8 @@
 
 ### [队列](https://github.com/goudemaoningsir/Salute_Algorithm/tree/main/docs/sections/%E9%98%9F%E5%88%97)
 
+## [哈希](https://github.com/goudemaoningsir/Salute_Algorithm/tree/main/docs/sections/哈希)
+
 ## Python
 
 <br>
