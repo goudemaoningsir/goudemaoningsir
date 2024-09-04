@@ -12,8 +12,9 @@
     <a href="https://www.zhihu.com/people/sunnyzgf"><img src="https://img.shields.io/badge/Zhihu-狗德猫宁sir-important?logo=Zhihu&logoColor=white" /></a>&emsp;
   </div>
 </div>
+![snake](https://raw.githubusercontent.com/goudemaoningsir/goudemaoningsir/output/github-contribution-grid-snake.svg)
 
-![snake](https://raw.githubusercontent.com/goudemaoningsir/goudemaoningsir/7df2db997557d6d194ffc8326eea93dcb9c60b6f/github-contribution-grid-snake.svg)
+
 
 
 <br>
