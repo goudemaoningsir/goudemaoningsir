@@ -26,12 +26,11 @@
 
 # 📝  笔记
 
-
 <a href="https://github.com/goudemaoningsir/Salute_Math">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Math&show_icons=true&theme=dark&hide_border=false" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Math&show_icons=true&theme=dark&hide_border=false&show_description=false" /></a>
 
 <a href="https://github.com/goudemaoningsir/Salute_Algorithm">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Algorithm&show_icons=true&theme=radical&hide_border=false" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Algorithm&show_icons=true&theme=radical&hide_border=false&show_description=false" /></a>
 
 <br>
 
@@ -82,37 +81,11 @@
 
 # ⌨️ 项目
 
-<details open>
-<summary> <h2>📌 自然语言处理</h2></summary>
+|                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
+| :----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------: |
+| [docker_learn](https://github.com/eryajf/docker_learn) | ![](https://img.shields.io/github/stars/eryajf/docker_learn?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/docker_learn?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 学习docker过程中所用到的一些东东 |
+| [shellabout](https://github.com/eryajf/shellabout) | ![](https://img.shields.io/github/stars/eryajf/shellabout?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/eryajf/shellabout?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 一些值得珍藏的脚本  |
 
-- [分词](https://github.com/goudemaoningsir/word_seg) 
-
-<br>
-
-</details>
-
-<br>
-
-<details open>
-
-<summary> <h2>📌 语音</h2></summary>
-
-- [语音合成](https://github.com/goudemaoningsir/speech_synthesis) 
-
-<br>
-
-</details>
-
-<br>
-
-<details open>
-
-<summary> <h2>📌 基础工具类</h2></summary>
-
-- [文件读取器](https://github.com/goudemaoningsir/FileParse) 
-
-<br>
-</details>
 <br>
 
 
