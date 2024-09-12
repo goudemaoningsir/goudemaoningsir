@@ -26,25 +26,24 @@
 
 # 📝  笔记
 
-<a href="https://github.com/goudemaoningsir/Salute_Math">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Math&show_icons=true&theme=dark&hide_border=false" /></a>
+<p align="center">
+
+<a href="https://github.com/goudemaoningsir/Salute_Python">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Python&show_icons=true&theme=merko&hide_border=false" /></a>
 
 <a href="https://github.com/goudemaoningsir/Salute_Algorithm">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Algorithm&show_icons=true&theme=radical&hide_border=false&show_description=false" /></a>
 
 <br>
 
-<a href="https://github.com/goudemaoningsir/Salute_Python">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Python&show_icons=true&theme=merko&hide_border=false" /></a>
-
-
+<a href="https://github.com/goudemaoningsir/Salute_Math">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Math&show_icons=true&theme=dark&hide_border=false" /></a>
 
 <a href="https://github.com/goudemaoningsir/Salute_AI">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_AI&show_icons=true&theme=gruvbox&hide_border=false" /></a>
 
 <br>
 
-<!-- 
 <a href="https://github.com/goudemaoningsir/Salute_Docker">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Docker&show_icons=true&theme=tokyonight&hide_border=false" /></a>
 
@@ -72,7 +71,7 @@
 <a href="https://github.com/goudemaoningsir/Salute_Git">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Git&show_icons=true&theme=merko&hide_border=false" /></a>
 
--->
+</p>
 
 
 
