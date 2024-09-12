@@ -36,8 +36,8 @@
 
 <br>
 
-<a href="https://github.com/goudemaoningsir/Salute_Math">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Math&show_icons=true&theme=dark&hide_border=false" /></a>
+<a href="https://github.com/goudemaoningsir/Salute_KG">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_KG&show_icons=true&theme=dracula&hide_border=false" /></a>
 
 <a href="https://github.com/goudemaoningsir/Salute_AI">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_AI&show_icons=true&theme=gruvbox&hide_border=false" /></a>
@@ -63,8 +63,8 @@
 <a href="https://github.com/goudemaoningsir/Salute_Network">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Network&show_icons=true&theme=highcontrast&hide_border=false" /></a>
 
-<a href="https://github.com/goudemaoningsir/Salute_KG">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_KG&show_icons=true&theme=dracula&hide_border=false" /></a>
+<a href="https://github.com/goudemaoningsir/Salute_Math">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Math&show_icons=true&theme=dark&hide_border=false" /></a>
 
 <br>
 
