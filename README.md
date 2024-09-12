@@ -27,7 +27,9 @@
 # 📝  笔记
 
 <a href="https://github.com/goudemaoningsir/Salute_Math">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Math&show_icons=true&theme=dark&hide_border=false&show_description=false" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Math&show_icons=true&theme=dark&hide_border=false" /></a>
+
+<a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Math&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
 
 <a href="https://github.com/goudemaoningsir/Salute_Algorithm">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Algorithm&show_icons=true&theme=radical&hide_border=false&show_description=false" /></a>
@@ -84,10 +86,6 @@
 |                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
 | :----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------: |
 | [docker_learn](https://github.com/eryajf/docker_learn) | ![](https://img.shields.io/github/stars/eryajf/docker_learn?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/docker_learn?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 学习docker过程中所用到的一些东东 |
-| [shellabout](https://github.com/eryajf/shellabout) | ![](https://img.shields.io/github/stars/eryajf/shellabout?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/eryajf/shellabout?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 一些值得珍藏的脚本  |
+
 
 <br>
-
-
-
-![](https://raw.githubusercontent.com/goudemaoningsir/goudemaoningsir/main/profile-3d-contrib/profile-gitblock.svg)
