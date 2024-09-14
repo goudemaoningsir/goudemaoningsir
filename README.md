@@ -1,21 +1,22 @@
 <div align="center">
 
-#  🙋 Hello，我是狗德猫宁sir.
+#  🙋 Hi there, I'm goudemaoningsir!
 
 </div>
 
 <div align="center">
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="mailto:gf13951891236@gmail.com"><img src="https://img.shields.io/badge/Gmail-狗德猫宁sir-D14836?logo=Gmail&logoColor=white" /></a>&emsp;
-    <a href="https://blog.csdn.net/weixin_44557056"><img src="https://img.shields.io/badge/CSDN-狗德猫宁sir-c32136?logo=Celery&logoColor=white" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/sunnyzgf"><img src="https://img.shields.io/badge/Zhihu-狗德猫宁sir-important?logo=Zhihu&logoColor=white" /></a>&emsp;
+    <a href="mailto:gf13951891236@gmail.com"><img src="https://img.shields.io/badge/Gmail-goudemaoningsir-blue?logo=Gmail&logoColor=white" /></a>&emsp;
+    <a href="https://blog.csdn.net/weixin_44557056"><img src="https://img.shields.io/badge/CSDN-goudemaoningsir-c32136?logo=Celery&logoColor=white" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/sunnyzgf"><img src="https://img.shields.io/badge/Zhihu-goudemaoningsir-important?logo=Zhihu&logoColor=white" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/sunnyzgf"><img src="https://img.shields.io/badge/GitHub-goudemaoningsir-green?logo=Github&logoColor=white" /></a>&emsp;
   </div>
 </div>
+
 <br>
 
 ![snake](https://raw.githubusercontent.com/goudemaoningsir/goudemaoningsir/output/github-contribution-grid-snake.svg)
-
 
 
 
@@ -80,8 +81,8 @@
 
 # ⌨️ 项目
 
-|                        Project                         |                            Stars                             |                            Forks                             |              Remark               |
-| :----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-| [docker_learn](https://github.com/eryajf/docker_learn) | ![](https://img.shields.io/github/stars/eryajf/docker_learn?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/docker_learn?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |
+|             Project             |                            Stars                             |                            Forks                             |              Remark               |
+| :-----------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+| [xxxx](https://github.com/xxxx) | ![](https://img.shields.io/github/stars/eryajf/docker_learn?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/docker_learn?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |
 
 <br>
