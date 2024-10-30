@@ -29,40 +29,12 @@
 
 <p align="center">
 
-<a href="https://github.com/goudemaoningsir/Salute_Python">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Python&show_icons=true&theme=merko&hide_border=false" /></a>
-
-<a href="https://github.com/goudemaoningsir/Salute_Algorithm">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Algorithm&show_icons=true&theme=radical&hide_border=false&show_description=false" /></a>
-
 <br>
-
-<a href="https://github.com/goudemaoningsir/Salute_KG">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_KG&show_icons=true&theme=dracula&hide_border=false" /></a>
 
 <a href="https://github.com/goudemaoningsir/Salute_AI">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_AI&show_icons=true&theme=gruvbox&hide_border=false" /></a>
 
 <br>
-
-<a href="https://github.com/goudemaoningsir/Salute_Docker">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Docker&show_icons=true&theme=tokyonight&hide_border=false" /></a>
-
-<a href="https://github.com/goudemaoningsir/Salute_Databases">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Databases&show_icons=true&theme=onedark&hide_border=false" /></a>
-
-<br>
-
-<a href="https://github.com/goudemaoningsir/Salute_Computer_Organization">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Computer_Organization&show_icons=true&theme=cobalt&hide_border=false" /></a>
-
-<a href="https://github.com/goudemaoningsir/Salute_Operating_System">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Operating_System&show_icons=true&theme=synthwave&hide_border=false" /></a>
-
-<br>
-
-<a href="https://github.com/goudemaoningsir/Salute_Git">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Git&show_icons=true&theme=merko&hide_border=false" /></a>
 
 </p>
 
@@ -73,8 +45,3 @@
 
 # ⌨️ 项目
 
-|             Project             |                            Stars                             |                            Forks                             |              Remark               |
-| :-----------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-| [xxxx](https://github.com/xxxx) | ![](https://img.shields.io/github/stars/eryajf/docker_learn?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/docker_learn?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |
-
-<br>
