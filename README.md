@@ -61,14 +61,6 @@
 
 <br>
 
-<a href="https://github.com/goudemaoningsir/Salute_Network">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Network&show_icons=true&theme=highcontrast&hide_border=false" /></a>
-
-<a href="https://github.com/goudemaoningsir/Salute_Math">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Math&show_icons=true&theme=dark&hide_border=false" /></a>
-
-<br>
-
 <a href="https://github.com/goudemaoningsir/Salute_Git">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Git&show_icons=true&theme=merko&hide_border=false" /></a>
 
