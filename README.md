@@ -25,14 +25,14 @@
 
 <br>
 
-# 📝  笔记
+# 📝  模型部署相关笔记
 
 <p align="center">
 
 <br>
 
-<a href="https://github.com/goudemaoningsir/Salute_AI">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_AI&show_icons=true&theme=gruvbox&hide_border=false" /></a>
+<a href="https://github.com/goudemaoningsir/Salute_Triton-inference-server">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Triton-inference-server&show_icons=true&theme=dark&hide_border=false" /></a>
 
 <br>
 
