@@ -25,16 +25,38 @@
 
 <br>
 
-# 📝  模型部署相关笔记
+# 📝  笔记
 
 <p align="center">
 
 <br>
 
-<a href="https://github.com/goudemaoningsir/Salute_Triton-inference-server">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Triton-inference-server&show_icons=true&theme=dark&hide_border=false" /></a>
+<a href="https://github.com/goudemaoningsir/Salute_Python">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Python&show_icons=true&theme=dark&hide_border=false" /></a>
+
+<a href="https://github.com/goudemaoningsir/Salute_AI">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_AI&show_icons=true&theme=dark&hide_border=false" /></a>
 
 <br>
+
+<a href="https://github.com/goudemaoningsir/Salute_Triton-Inference-Server">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Triton-Inference-Server&show_icons=true&theme=dark&hide_border=false" /></a>
+
+<a href="https://github.com/goudemaoningsir/Salute_Elasticsearch">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Elasticsearch&show_icons=true&theme=dark&hide_border=false" /></a>
+
+<br>
+
+<a href="https://github.com/goudemaoningsir/Salute_Operating_System">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Operating_System&show_icons=true&theme=dark&hide_border=false" /></a>
+
+<a href="https://github.com/goudemaoningsir/Salute_Git">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Git&show_icons=true&theme=dark&hide_border=false" /></a>
+
+<br>
+
+<a href="https://github.com/goudemaoningsir/Salute_Docker">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Docker&show_icons=true&theme=dark&hide_border=false" /></a>
 
 </p>
 
