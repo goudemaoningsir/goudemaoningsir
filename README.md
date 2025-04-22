@@ -31,35 +31,8 @@
 
 <br>
 
-<a href="https://github.com/goudemaoningsir/Salute_Python">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Python&show_icons=true&theme=radical&hide_border=false" /></a>
-
-<a href="https://github.com/goudemaoningsir/Salute_AI">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_AI&show_icons=true&theme=merko&hide_border=false" /></a>
-
-<br>
-
-<a href="https://github.com/goudemaoningsir/Salute_Triton-Inference-Server">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Triton-Inference-Server&show_icons=true&theme=gruvbox&hide_border=false" /></a>
-
-<a href="https://github.com/goudemaoningsir/Salute_Elasticsearch">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Elasticsearch&show_icons=true&theme=tokyonight&hide_border=false" /></a>
-
-<br>
-
-<a href="https://github.com/goudemaoningsir/Salute_Operating_System">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Operating_System&show_icons=true&theme=dracula&hide_border=false" /></a>
-
-<a href="https://github.com/goudemaoningsir/Salute_Git">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Git&show_icons=true&theme=monokai&hide_border=false" /></a>
-
-<br>
-
-<a href="https://github.com/goudemaoningsir/Salute_Docker">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_Docker&show_icons=true&theme=nord&hide_border=false" /></a>
-
-</p>
-
+<a href="https://github.com/goudemaoningsir/Salute_SuperBrain">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=goudemaoningsir&repo=Salute_SuperBrain&show_icons=true&theme=gruvbox&hide_border=false" /></a>
 
 
 <br>
