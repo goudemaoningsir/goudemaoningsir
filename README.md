@@ -9,7 +9,7 @@
   <div align="center">
     <a href="mailto:gf13951891236@gmail.com"><img src="https://img.shields.io/badge/Gmail-goudemaoningsir-blue?logo=Gmail&logoColor=white" /></a>&emsp;
     <a href="https://www.zhihu.com/people/sunnyzgf"><img src="https://img.shields.io/badge/Zhihu-goudemaoningsir-red?logo=ZhiHu&logoColor=white" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/sunnyzgf"><img src="https://img.shields.io/badge/GitHub-goudemaoningsir-green?logo=Github&logoColor=white" /></a>&emsp;
+    <a href="https://github.com/goudemaoningsir"><img src="https://img.shields.io/badge/GitHub-goudemaoningsir-green?logo=Github&logoColor=white" /></a>&emsp;
   </div>
 </div>
 <br>
